@@ -1,9 +1,9 @@
 # CLI-App---How-well-you-know-me-
 
 Title : How well you know me
+Here, I used nodeJS and repl.it to host the quiz app.
 
-here, I used nodeJS and repl.it to host the quiz app.
-Dependencies used:
+Dependencies used: 1.Readline-sync
 
-readline-sync
+
 Check it : https://replit.com/@harshkotkar/How-well-you-know-me#index.js
